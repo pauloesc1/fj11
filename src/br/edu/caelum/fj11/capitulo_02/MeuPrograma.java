@@ -1,4 +1,4 @@
-package br.edu.caelum.fj11.capitulo02;
+package br.edu.caelum.fj11.capitulo_02;
 
 public class MeuPrograma {
 
